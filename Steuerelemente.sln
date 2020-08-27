@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steuerelemente", "Steuerelemente\Steuerelemente.csproj", "{30437D50-17BE-40BF-96B7-72CA8149F596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30437D50-17BE-40BF-96B7-72CA8149F596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30437D50-17BE-40BF-96B7-72CA8149F596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30437D50-17BE-40BF-96B7-72CA8149F596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30437D50-17BE-40BF-96B7-72CA8149F596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C4CD88-BE3E-4C21-97A8-1FDBC990B2CC}
+	EndGlobalSection
+EndGlobal
